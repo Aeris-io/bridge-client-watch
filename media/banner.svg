@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <title>Bridge &amp; Client Watch</title>
+  <defs><linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="#000"/>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#sheen)" stroke="#fff" stroke-opacity=".14"/>
+  <text x="56" y="76" fill="#fff" fill-opacity=".55" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="15">{ Aeris · Instrument 01 }</text>
+  <text x="52" y="152" fill="#fff" font-family="Fraunces,Georgia,'Times New Roman',serif" font-size="60" font-weight="700" letter-spacing="-1.5">Bridge &amp; Client Watch</text>
+  <g fill="#9a9a9a" font-family="Barlow,Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="300">
+    <text x="56" y="198">Every IBC client connected to Celestia,</text>
+    <text x="56" y="226">scored the moment it drifts. Plus Blobstream.</text>
+  </g>
+  <text x="56" y="276" fill="#fff" fill-opacity=".4" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="3">IBC · BLOBSTREAM · OPEN JSON</text>
+  <circle cx="960" cy="160" r="104" fill="none" stroke="#fff" stroke-opacity=".1"/>
+  <circle cx='1064' cy='160' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='1061.39' cy='183.14' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='1053.7' cy='205.12' r='4.5' fill='#fff' fill-opacity='.5'/>
+  <circle cx='1041.31' cy='224.84' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='1024.84' cy='241.31' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='1005.12' cy='253.7' r='4.5' fill='#fff' fill-opacity='.12'/>
+  <circle cx='983.14' cy='261.39' r='4.5' fill='#fff' fill-opacity='.35'/>
+  <circle cx='960' cy='264' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='936.86' cy='261.39' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='914.88' cy='253.7' r='4.5' fill='#fff' fill-opacity='.5'/>
+  <circle cx='895.16' cy='241.31' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='878.69' cy='224.84' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='866.3' cy='205.12' r='4.5' fill='#fff' fill-opacity='.12'/>
+  <circle cx='858.61' cy='183.14' r='4.5' fill='#fff' fill-opacity='.35'/>
+  <circle cx='856' cy='160' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='858.61' cy='136.86' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='866.3' cy='114.88' r='4.5' fill='#fff' fill-opacity='.5'/>
+  <circle cx='878.69' cy='95.16' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='895.16' cy='78.69' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='914.88' cy='66.3' r='4.5' fill='#fff' fill-opacity='.12'/>
+  <circle cx='936.86' cy='58.61' r='4.5' fill='#fff' fill-opacity='.35'/>
+  <circle cx='960' cy='56' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='983.14' cy='58.61' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='1005.12' cy='66.3' r='4.5' fill='#fff' fill-opacity='.5'/>
+  <circle cx='1024.84' cy='78.69' r='4.5' fill='#fff' fill-opacity='.2'/>
+  <circle cx='1041.31' cy='95.16' r='5.5' fill='#fff' fill-opacity='.9'/>
+  <circle cx='1053.7' cy='114.88' r='4.5' fill='#fff' fill-opacity='.12'/>
+  <circle cx='1061.39' cy='136.86' r='4.5' fill='#fff' fill-opacity='.35'/>
+  <line x1="960" y1="160" x2="1110" y2="52" stroke="#fff" stroke-opacity=".35" stroke-dasharray="3 5"/>
+  <circle cx="1110" cy="52" r="11" fill="#000" stroke="#fff" stroke-opacity=".6"/>
+  <text x="1136" y="57" fill="#fff" fill-opacity=".5" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12">ETH</text>
+  <circle cx="960" cy="160" r="30" fill="#fff"/>
+  <text x="960" y="165" text-anchor="middle" fill="#000" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700">TIA</text>
+</svg>
